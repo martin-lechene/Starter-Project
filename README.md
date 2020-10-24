@@ -11,7 +11,7 @@ If minimum require before take starter-project
 #### Visual Studio Code
 
 # Dependencie
-All dependence for started new project
+All dependence for started new project (installed by "npm install" in .bat)
 #### Gulp
 #### NodeJS
 #### SCSS
